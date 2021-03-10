@@ -1,0 +1,91 @@
+[{
+    "id": 1,
+    "name": "Shakib Al Hasan",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/201.png",
+    "salary": 725000,
+    "amount": "725000"
+  }, {
+    "id": 2,
+    "name": "Tamim Iqbal",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Tamim-Iqbal-CWC19.ashx",
+    "salary": 630000,
+    "amount": "630000"
+  }, {
+    "id": 3,
+    "name": "Liton Das",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Liton-Das-CWC19.ashx",
+    "salary": 225000,
+    "amount": "225000"
+  }, {
+    "id": 4,
+    "name": "Steve Smith",
+    "img": "https://i.pinimg.com/originals/9a/d8/d1/9ad8d196afb62a5852924ab18c02e23b.png",
+    "salary": 640000,
+    "amount": "640000"
+  }, {
+    "id": 5,
+    "name": "AB De Villiers",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/South%20Africa/AB-de-Villiers-CT17.ashx",
+    "salary": 445800,
+    "amount": "445800"
+  }, {
+    "id": 6,
+    "name": "David Warner",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/170.png",
+    "salary": 645800,
+    "amount": "645800"
+  }, {
+    "id": 7,
+    "name": "Virat Kohli",
+    "img": "https://magazine.xpert.tv/wp-content/uploads/2020/08/Virat-Kohli-CWC19.png",
+    "salary": 945600,
+    "amount": "945600"
+  }, {
+    "id": 8,
+    "name": "Mustafizur Rahman",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/1594.png",
+    "salary": 345200,
+    "amount": "345200"
+  }, {
+    "id": 9,
+    "name": "Muhammad Saifuddin",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/2915.png",
+    "salary": 250300,
+    "amount": "250300"
+  }, {
+    "id": 10,
+    "name": "Mushfiqur Rahim ",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mushfiqur-Rahim-CWC19.ashx",
+    "salary": 523220,
+    "amount": "523220"
+  }, {
+    "id": 11,
+    "name": "Mehedi Hasan Miraz",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/Bangladesh/Mehedi-Hasan-CWC19.ashx",
+    "salary": 400300,
+    "amount": "400300"
+  }, {
+    "id": 12,
+    "name": "Jasprit Bumrah",
+    "img": "https://i.pinimg.com/originals/fa/a5/f6/faa5f6df8fe03cd1d7c1c6c9562f383c.png",
+    "salary": 650000,
+    "amount": "650000"
+  }, {
+    "id": 13,
+    "name": "Rashid Khan",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/Afghanistan/Rashid-Khan-CWC19.ashx",
+    "salary": 150000,
+    "amount": "150000"
+  }, {
+    "id": 14,
+    "name": "Chris Gayle",
+    "img": "https://www.cricket.com.au/-/media/Players/Men/International/West%20Indies/ODIWC19/Chris-Gayle-CWC19.ashx",
+    "salary": 550000,
+    "amount": "550000"
+  }, {
+    "id": 15,
+    "name": "Andre Russel",
+    "img": "https://resources.pulse.icc-cricket.com/players/284/177.png",
+    "salary": 352000,
+    "amount": "352000"
+  }]

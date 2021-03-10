@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    text-align:center;
+    margin-left: 92px;
+}
+.player{
+    border-radius: 15px;
+    width: 500px;
+    float: left;
+    margin: 20px;
+    box-shadow: 7px 7px 10px gray;
+
+}
+.player img{
+    width: 450px;
+    height: 600px;
+
+}
+.player button{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    width: 180px;
+    height: 30px;
+    background-color: goldenrod;
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
